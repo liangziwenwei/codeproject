@@ -1,0 +1,117 @@
+{
+  "files.encoding": "gbk",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "files.associations": {
+    "*.json": "jsonc",
+    "*.cfg": "ini",
+    "*.fsh": "glsl",
+    "stack": "cpp",
+    "iostream": "cpp",
+    "ostream": "cpp",
+    "*.tcc": "cpp",
+    "cctype": "cpp",
+    "clocale": "cpp",
+    "cmath": "cpp",
+    "cstdint": "cpp",
+    "cstdio": "cpp",
+    "cstdlib": "cpp",
+    "cwchar": "cpp",
+    "cwctype": "cpp",
+    "exception": "cpp",
+    "initializer_list": "cpp",
+    "iosfwd": "cpp",
+    "istream": "cpp",
+    "limits": "cpp",
+    "new": "cpp",
+    "stdexcept": "cpp",
+    "streambuf": "cpp",
+    "system_error": "cpp",
+    "type_traits": "cpp",
+    "typeinfo": "cpp",
+    "utility": "cpp",
+    "iomanip": "cpp"
+  },
+  "editor.snippetSuggestions": "top",
+  "C_Cpp.clang_format_sortIncludes": true,
+  "editor.wordWrap": "on",
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.codeActionsOnSaveTimeout": 500,
+  "files.autoSaveDelay": 500,
+  "editor.hover.delay": 1000,
+  "editor.detectIndentation": false,
+  "editor.formatOnSaveTimeout": 20,
+  "C_Cpp_Runner.cCompilerPath": "D:/compiler_c/mingw64/bin/g++.exe",
+  "C_Cpp_Runner.cppCompilerPath": "g++",
+  "C_Cpp_Runner.debuggerPath": "gdb",
+  "C_Cpp_Runner.cStandard": "c11",
+  "C_Cpp_Runner.cppStandard": "c++17",
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "C_Cpp_Runner.useMsvc": false,
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic",
+    "-Wshadow",
+    "-Wformat=2",
+    "-Wconversion",
+    "-Wnull-dereference",
+    "-Wsign-conversion"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [
+    "${workspaceFolder}/**"
+  ],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ],
+  "C_Cpp_Runner.useAddressSanitizer": false,
+  "C_Cpp_Runner.showCompilationTime": false,
+  "code-runner.runInTerminal": true,
+  "terminal.integrated.profiles.windows": {
+    "PowerShell -NoProfile": {
+      "source": "PowerShell",
+      "args": [
+        "-NoProfile"
+      ]
+    },
+    "Git-Bash": {
+      "path": "C:\\Windows\\System32\\bash.exe",
+      "args": [],
+      "icon": "terminal-bash"
+    }
+  },
+  "editor.tabSize": 4,
+  "editor.formatOnSave": true,
+  "C_Cpp_Runner.msvcWarnings": [
+    "/W4",
+    "/permissive-",
+    "/w14242",
+    "/w14287",
+    "/w14296",
+    "/w14311",
+    "/w14826",
+    "/w44062",
+    "/w44242",
+    "/w14905",
+    "/w14906",
+    "/w14263",
+    "/w44265",
+    "/w14928"
+  ],
+  "C_Cpp_Runner.useUndefinedSanitizer": false,
+  "C_Cpp_Runner.useLeakSanitizer": false,
+  "C_Cpp_Runner.useLinkTimeOptimization": false
+}
